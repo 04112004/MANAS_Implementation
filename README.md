@@ -202,7 +202,7 @@ Evaluation covered four query categories:
 
 ## 📄 License
 
-This project is currently unlicensed. Add a `LICENSE` file to specify usage terms before public distribution.
+This project is currently unlicensed.
 
 ---
 
